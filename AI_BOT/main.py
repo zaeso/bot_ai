@@ -34,4 +34,5 @@ async def check(ctx):
          
 
         
-bot.run("MTIxMzc4MjM4MzQyNjI3NzM4Ng.GWEAlH.e5H_yHjtwUSRouiKwXYYTdUDYj39NJdNlhkmnY")
+bot.run("Вашь токен
+")
