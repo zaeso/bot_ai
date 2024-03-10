@@ -1,0 +1,2 @@
+0 junk food
+1 healthy food
